@@ -1,5 +1,7 @@
 # Votable Issues
 
+[![Refresh Votable Issues](https://github.com/SciTools/votable_issues/actions/workflows/refresh-votable-issues.yml/badge.svg)](https://github.com/SciTools/votable_issues/actions/workflows/refresh-votable-issues.yml)
+
 This repository is the home of the tool that will query the GitHub API
 for the Iris issues that are votable and update a json file held in the repo.
 This json file may then be used in the Iris documentation to view the
