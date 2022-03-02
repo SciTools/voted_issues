@@ -1,0 +1,64 @@
+{
+  "data": [
+    [
+      4,
+      "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
+      "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
+      "More control over lazy data creation (chunking)"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/3330'>#3330</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Support iris.plot.hist and iris.quickplot.hist"
+    ],
+    [
+      6,
+      "<a href='https://github.com/SciTools/iris/issues/3307'>#3307</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Provide a user-updown feature voting page on the repo"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/3294'>#3294</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Rationalise percentile methods"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
+      "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
+      "Unify merge and concatenate"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/2793'>#2793</a>",
+      "<a href='https://github.com/samizdis'>@samizdis</a>",
+      "Time units of 'months' or 'years' cause print() to ValueError"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
+      "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
+      "Concatenate in load_cube?"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
+      "<a href='https://github.com/duncanwp'>@duncanwp</a>",
+      "Interpolation over derived coordinates"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/1526'>#1526</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Load and merge may be highly inefficient with lots of small files"
+    ],
+    [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/891'>#891</a>",
+      "<a href='https://github.com/shoyer'>@shoyer</a>",
+      "Proposal: move iris.cube.Cube to iris.Cube"
+    ]
+  ]
+}
