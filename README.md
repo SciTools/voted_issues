@@ -7,6 +7,7 @@ for the Iris issues that are votable and update a json file held in the repo.
 This json file may then be used in the Iris documentation to view the
 votable issues.
 
+This tool is run via a GitHub Action named [refresh-votable-issues.yml](https://github.com/SciTools/votable_issues/blob/main/.github/workflows/refresh-votable-issues.yml)
 This is essentially a workaround as the GitHub Issue browser on the web
 site only allows sorting by the number of comments, not by the number of likes
 on the issue header.
