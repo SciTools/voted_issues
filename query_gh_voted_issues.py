@@ -5,7 +5,7 @@
 # licensing details.
 """
 A standalone python script to guery the GitHub API and create a json file
-of all votable issues with their details.
+of all voted for issues with their details.
 
 In order for this to run the GH_TOKEN shell variable must be set.
 For example::
@@ -27,8 +27,7 @@ from pathlib import Path
 logging.basicConfig(level=logging.INFO)
 
 GH_TOKEN_NAME = "GH_TOKEN"
-GH_LABEL = ["Feature: Votable"]
-OUTPUT_JSON = "votable-issues.json"
+OUTPUT_JSON = "voted-issues.json"
 ISSUE_RST = ":issue_only:`{number}`"
 AUTHOR_RST = ":author:`{author}`"
 
@@ -67,8 +66,8 @@ total_issues = issues.totalCount
 autolog_info(f"GitHub API: Issues (including pull requests) to process: {total_issues}")
 autolog_info(f"GitHub API: Only issues that have 1 or more votes will be used.")
 
-votable_json = {}
-votable_list = []
+voted_json = {}
+voted_list = []
 total_issues_only = 0
 
 for i, issue in enumerate(issues):
@@ -90,7 +89,7 @@ for i, issue in enumerate(issues):
                 f"Title = {issue.title}"
             )
 
-            votable_list.append(
+            voted_list.append(
                 [
                     plus_one_count,
                     ISSUE_HREF.format(number=issue.number),
@@ -101,9 +100,9 @@ for i, issue in enumerate(issues):
 
 autolog_info(f"GitHub API: Issues Only Total with > 0 votes: {total_issues_only}")
 
-votable_json["data"] = votable_list
+voted_json["data"] = voted_list
 
 autolog_info(f"Writing JSON: {OUTPUT_JSON}")
 
 with open(OUTPUT_JSON, "w") as f:
-    json.dump(votable_json, f, indent=2)
+    json.dump(voted_json, f, indent=2)
