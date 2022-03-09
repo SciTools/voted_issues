@@ -7,10 +7,52 @@
       "Support CRS datum information"
     ],
     [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/4613'>#4613</a>",
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4544'>#4544</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Support for Cartesian grids"
+      "Document CML auto-generation"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/4523'>#4523</a>",
+      "<a href='https://github.com/SimonPeatman'>@SimonPeatman</a>",
+      "Fully adopt pathlib.PurePath for file paths"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/4508'>#4508</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Provide a neat way to get date strings from arrays with date units."
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4495'>#4495</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Warn or error rather than returning None from name check in netcdf"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4463'>#4463</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Regridding with `iris.analysis.UnstructuredNearest` does not preserve `dtype` and masks"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4453'>#4453</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Case insensitive lenient special name support?"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4448'>#4448</a>",
+      "<a href='https://github.com/hdyson'>@hdyson</a>",
+      "Poor performance with concatenating and saving netCDF files"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "A Dataless Cube"
     ],
     [
       11,
@@ -19,16 +61,130 @@
       "Lenient Cube Merge"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4382'>#4382</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Make a statement about adoption of type hints in Iris 3.2"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4337'>#4337</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Applying logical OR to a constraint \"fails\" silently"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4335'>#4335</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Additional cubeList.merge capability to extend AuxCoords and AncillaryVariables"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4190'>#4190</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Support lazy saving"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4153'>#4153</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Leniently Comparing Coordinates"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4151'>#4151</a>",
+      "<a href='https://github.com/jonseddon'>@jonseddon</a>",
+      "Allowed cell method names not complete"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Link Checking Procedure"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "Preserve dtype for wrap_lons"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4098'>#4098</a>",
+      "<a href='https://github.com/ehogan'>@ehogan</a>",
+      "Time points for daily climatology are not intuitive"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4090'>#4090</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "suspected mpl 3.4.1 regression for a graphical test"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4031'>#4031</a>",
+      "<a href='https://github.com/tkknight'>@tkknight</a>",
+      "Shows Iris version in sidebar (thus viewable on all pages)"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
+      "<a href='https://github.com/acchamber'>@acchamber</a>",
+      "No documentation on what units cube.convert_units actually converts? "
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Extend iris.common.resolve.Resolve to implicitly use target cube data"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3840'>#3840</a>",
+      "<a href='https://github.com/tkknight'>@tkknight</a>",
+      "Adopt numpy docstrings"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/3835'>#3835</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Adopt py.test "
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
+      "<a href='https://github.com/hdyson'>@hdyson</a>",
+      "Incorrect LBLEV in pp save rules for surface fields."
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/3717'>#3717</a>",
+      "<a href='https://github.com/SimonPeatman'>@SimonPeatman</a>",
+      "mask_cube() both acts in-place and returns the Cube"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/3651'>#3651</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "CubeList.copy() should be a deepcopy()"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3559'>#3559</a>",
+      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
+      "Improve floating point representation in generation of regular grids that use a reference point and spacings"
+    ],
+    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
       "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
       "More control over lazy data creation (chunking)"
     ],
     [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/3330'>#3330</a>",
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Support iris.plot.hist and iris.quickplot.hist"
+      "NetCDF global attributes vs data variable local attributes"
     ],
     [
       6,
@@ -37,10 +193,10 @@
       "Provide a user-updown feature voting page on the repo"
     ],
     [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/3294'>#3294</a>",
-      "<a href='https://github.com/rcomer'>@rcomer</a>",
-      "Rationalise percentile methods"
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3292'>#3292</a>",
+      "<a href='https://github.com/corinnebosley'>@corinnebosley</a>",
+      "Clarify laziness status of all iris functions"
     ],
     [
       2,
@@ -49,10 +205,10 @@
       "Unify merge and concatenate"
     ],
     [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/2793'>#2793</a>",
-      "<a href='https://github.com/samizdis'>@samizdis</a>",
-      "Time units of 'months' or 'years' cause print() to ValueError"
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3048'>#3048</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "unpin numpy legacy printing"
     ],
     [
       1,
@@ -61,16 +217,10 @@
       "Concatenate in load_cube?"
     ],
     [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
-      "<a href='https://github.com/duncanwp'>@duncanwp</a>",
-      "Interpolation over derived coordinates"
-    ],
-    [
-      0,
-      "<a href='https://github.com/SciTools/iris/issues/891'>#891</a>",
-      "<a href='https://github.com/shoyer'>@shoyer</a>",
-      "Proposal: move iris.cube.Cube to iris.Cube"
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/2418'>#2418</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "All-lazy statistics"
     ]
   ]
 }
