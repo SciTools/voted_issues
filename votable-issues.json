@@ -7,6 +7,12 @@
       "Support CRS datum information"
     ],
     [
+      0,
+      "<a href='https://github.com/SciTools/iris/issues/4613'>#4613</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Support for Cartesian grids"
+    ],
+    [
       11,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
