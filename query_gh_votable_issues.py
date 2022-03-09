@@ -17,6 +17,7 @@ package names GitHub (package to help queiry the GitHub API).
 """
 
 from github import Github
+import github
 import json
 import logging
 import os
@@ -60,37 +61,45 @@ g = Github(gh_token, per_page=100)
 repo = g.get_repo("scitools/iris")
 
 # https://pygithub.readthedocs.io/en/latest/github_objects/Issue.html#github.Issue.Issue
-issues = repo.get_issues(state="open", labels=GH_LABEL)
+issues = repo.get_issues(state="open")
 total_issues = issues.totalCount
 
 autolog_info(f"GitHub API: Issues (including pull requests) to process: {total_issues}")
+autolog_info(f"GitHub API: Only issues that have 1 or more votes will be used.")
 
 votable_json = {}
 votable_list = []
+total_issues_only = 0
 
 for i, issue in enumerate(issues):
-    plus_one_count = 0
+    # ignore pull requests
+    if issue._pull_request is github.GithubObject.NotSet:
+        plus_one_count = 0
 
-    for r in issue.get_reactions():
+        for r in issue.get_reactions():
+            if r.content == "+1":
+                plus_one_count += 1
 
-        if r.content == "+1":
-            plus_one_count = plus_one_count + 1
+        if plus_one_count > 0:
+            total_issues_only += 1
 
-    autolog_info(
-        f"Number = {issue.number :>5}  "
-        f"Likes = {plus_one_count :>4}  "
-        f"Author = {issue.user.login :<20}  "
-        f"Title = {issue.title}"
-    )
+            autolog_info(
+                f"Number = {issue.number :>5}  "
+                f"Likes = {plus_one_count :>4}  "
+                f"Author = {issue.user.login :<20}  "
+                f"Title = {issue.title}"
+            )
 
-    votable_list.append(
-        [
-            plus_one_count,
-            ISSUE_HREF.format(number=issue.number),
-            AUTHOR_HREF.format(author=issue.user.login),
-            issue.title,
-        ]
-    )
+            votable_list.append(
+                [
+                    plus_one_count,
+                    ISSUE_HREF.format(number=issue.number),
+                    AUTHOR_HREF.format(author=issue.user.login),
+                    issue.title,
+                ]
+            )
+
+autolog_info(f"GitHub API: Issues Only Total with > 0 votes: {total_issues_only}")
 
 votable_json["data"] = votable_list
 
