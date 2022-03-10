@@ -85,7 +85,7 @@
       "Support lazy saving"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/4153'>#4153</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Leniently Comparing Coordinates"
@@ -97,7 +97,7 @@
       "Allowed cell method names not complete"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Link Checking Procedure"
@@ -121,7 +121,7 @@
       "suspected mpl 3.4.1 regression for a graphical test"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4031'>#4031</a>",
       "<a href='https://github.com/tkknight'>@tkknight</a>",
       "Shows Iris version in sidebar (thus viewable on all pages)"
@@ -131,6 +131,12 @@
       "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "No documentation on what units cube.convert_units actually converts? "
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3936'>#3936</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "iris.util.mask_cube wish list"
     ],
     [
       1,
@@ -155,6 +161,12 @@
       "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Incorrect LBLEV in pp save rules for surface fields."
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3776'>#3776</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Cube arithmetic points/bounds mismatch errors"
     ],
     [
       2,
@@ -209,6 +221,12 @@
       "<a href='https://github.com/SciTools/iris/issues/3048'>#3048</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "unpin numpy legacy printing"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/2987'>#2987</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Mixing lazy and non-lazy masked cubes in arithmetic"
     ],
     [
       1,
