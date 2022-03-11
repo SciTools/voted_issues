@@ -1,7 +1,19 @@
 {
   "data": [
     [
-      6,
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/4630'>#4630</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Retire \"Feature: Votable\" label"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4628'>#4628</a>",
+      "<a href='https://github.com/tkknight'>@tkknight</a>",
+      "Stale GHA instructions to reopen issue do not work for non GitHub team members"
+    ],
+    [
+      8,
       "<a href='https://github.com/SciTools/iris/issues/4619'>#4619</a>",
       "<a href='https://github.com/bsherratt'>@bsherratt</a>",
       "Support CRS datum information"
@@ -197,12 +209,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "NetCDF global attributes vs data variable local attributes"
-    ],
-    [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/3307'>#3307</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Provide a user-updown feature voting page on the repo"
     ],
     [
       1,
