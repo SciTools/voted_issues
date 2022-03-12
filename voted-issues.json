@@ -13,7 +13,7 @@
       "Stale GHA instructions to reopen issue do not work for non GitHub team members"
     ],
     [
-      8,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4619'>#4619</a>",
       "<a href='https://github.com/bsherratt'>@bsherratt</a>",
       "Support CRS datum information"
@@ -67,7 +67,7 @@
       "A Dataless Cube"
     ],
     [
-      11,
+      12,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
@@ -121,7 +121,7 @@
       "Preserve dtype for wrap_lons"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4098'>#4098</a>",
       "<a href='https://github.com/ehogan'>@ehogan</a>",
       "Time points for daily climatology are not intuitive"
@@ -205,7 +205,7 @@
       "More control over lazy data creation (chunking)"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "NetCDF global attributes vs data variable local attributes"
@@ -239,12 +239,6 @@
       "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
       "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
       "Concatenate in load_cube?"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/2418'>#2418</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "All-lazy statistics"
     ]
   ]
 }
