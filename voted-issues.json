@@ -13,7 +13,7 @@
       "Stale GHA instructions to reopen issue do not work for non GitHub team members"
     ],
     [
-      7,
+      8,
       "<a href='https://github.com/SciTools/iris/issues/4619'>#4619</a>",
       "<a href='https://github.com/bsherratt'>@bsherratt</a>",
       "Support CRS datum information"
