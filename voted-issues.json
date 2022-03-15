@@ -61,7 +61,7 @@
       "Poor performance with concatenating and saving netCDF files"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "A Dataless Cube"
