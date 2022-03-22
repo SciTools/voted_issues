@@ -26,6 +26,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4538'>#4538</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Degraded PP load times in later Iris versions"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4526'>#4526</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
       "Converting a cube to a Pandas dataframe "
