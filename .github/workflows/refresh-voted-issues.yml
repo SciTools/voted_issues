@@ -5,7 +5,7 @@ name: Refresh Voted Issues
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '25 03 * * *'
+    - cron:  '5/30 * * * *'
   # run on demand too if needed
   workflow_dispatch:
 jobs:
