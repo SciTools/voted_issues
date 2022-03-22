@@ -28,6 +28,7 @@ logging.basicConfig(level=logging.INFO)
 
 GH_TOKEN_NAME = "GH_TOKEN"
 OUTPUT_JSON = "voted-issues.json"
+OUTPUT_BADGE_JSON = "voted-issues-badge.json"
 ISSUE_RST = ":issue_only:`{number}`"
 AUTHOR_RST = ":author:`{author}`"
 
@@ -106,3 +107,15 @@ autolog_info(f"Writing JSON: {OUTPUT_JSON}")
 
 with open(OUTPUT_JSON, "w") as f:
     json.dump(voted_json, f, indent=2)
+
+# create the json badge so it can be used via https://shields.io/endpoint
+
+voted_badge = {
+  "schemaVersion": 1,
+  "label": "Voted Issues",
+  "message": str(total_issues_only),
+  "color": "green"
+}
+
+with open(OUTPUT_BADGE_JSON, "w") as f:
+    json.dump(voted_badge, f, indent=2)
