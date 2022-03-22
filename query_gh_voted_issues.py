@@ -117,5 +117,7 @@ voted_badge = {
   "color": "green"
 }
 
+autolog_info(f"Writing JSON: {OUTPUT_BADGE_JSON}")
+
 with open(OUTPUT_BADGE_JSON, "w") as f:
     json.dump(voted_badge, f, indent=2)
