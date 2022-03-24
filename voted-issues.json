@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      6,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4643'>#4643</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Adopt pyproj.CRS"
