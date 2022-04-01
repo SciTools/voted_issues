@@ -73,12 +73,6 @@
       "Case insensitive lenient special name support?"
     ],
     [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/4448'>#4448</a>",
-      "<a href='https://github.com/hdyson'>@hdyson</a>",
-      "Poor performance with concatenating and saving netCDF files"
-    ],
-    [
       6,
       "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
