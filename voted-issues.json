@@ -115,12 +115,6 @@
       "Leniently Comparing Coordinates"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4151'>#4151</a>",
-      "<a href='https://github.com/jonseddon'>@jonseddon</a>",
-      "Allowed cell method names not complete"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
