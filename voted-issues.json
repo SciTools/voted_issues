@@ -139,12 +139,6 @@
       "suspected mpl 3.4.1 regression for a graphical test"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/4031'>#4031</a>",
-      "<a href='https://github.com/tkknight'>@tkknight</a>",
-      "Shows Iris version in sidebar (thus viewable on all pages)"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
