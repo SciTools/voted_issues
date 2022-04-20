@@ -91,7 +91,7 @@
       "Make a statement about adoption of type hints in Iris 3.2"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/4337'>#4337</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Applying logical OR to a constraint \"fails\" silently"
