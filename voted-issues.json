@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4679'>#4679</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Make it clearer / easier to find how to cite Iris"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4673'>#4673</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "MeshCoord metadata should include the \"mesh\" property"
