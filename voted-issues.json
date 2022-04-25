@@ -55,7 +55,7 @@
       "Fully adopt pathlib.PurePath for file paths"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/4508'>#4508</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Provide a neat way to get date strings from arrays with date units."
