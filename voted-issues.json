@@ -163,12 +163,6 @@
       "Extend iris.common.resolve.Resolve to implicitly use target cube data"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3840'>#3840</a>",
-      "<a href='https://github.com/tkknight'>@tkknight</a>",
-      "Adopt numpy docstrings"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/3835'>#3835</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
