@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4737'>#4737</a>",
+      "<a href='https://github.com/cgsandford'>@cgsandford</a>",
+      "Extract time cell points as python datetimes for plotting"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4679'>#4679</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Make it clearer / easier to find how to cite Iris"
