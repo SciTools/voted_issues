@@ -133,12 +133,6 @@
       "Preserve dtype for wrap_lons"
     ],
     [
-      5,
-      "<a href='https://github.com/SciTools/iris/issues/4098'>#4098</a>",
-      "<a href='https://github.com/ehogan'>@ehogan</a>",
-      "Time points for daily climatology are not intuitive"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/4090'>#4090</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
