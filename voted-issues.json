@@ -19,7 +19,7 @@
       "MeshCoord metadata should include the \"mesh\" property"
     ],
     [
-      8,
+      9,
       "<a href='https://github.com/SciTools/iris/issues/4643'>#4643</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Adopt pyproj.CRS"
