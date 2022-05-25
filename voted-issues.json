@@ -38,12 +38,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4544'>#4544</a>",
-      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Document CML auto-generation"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/4538'>#4538</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Degraded PP load times in later Iris versions"
