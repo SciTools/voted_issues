@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4772'>#4772</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Extend `expanduser` behaviour"
+    ],
+    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/4754'>#4754</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
