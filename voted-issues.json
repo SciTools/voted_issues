@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4779'>#4779</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Re-implement cube repr_html"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4772'>#4772</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Extend `expanduser` behaviour"
