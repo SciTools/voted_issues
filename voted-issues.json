@@ -205,7 +205,7 @@
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
       "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
       "More control over lazy data creation (chunking)"
