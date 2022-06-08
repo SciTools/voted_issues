@@ -151,6 +151,12 @@
       "suspected mpl 3.4.1 regression for a graphical test"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "PP saving soil depths incorrectly setting LBLEV=0"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
@@ -175,7 +181,7 @@
       "Adopt py.test "
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Incorrect LBLEV in pp save rules for surface fields."
@@ -197,6 +203,12 @@
       "<a href='https://github.com/SciTools/iris/issues/3651'>#3651</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "CubeList.copy() should be a deepcopy()"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3561'>#3561</a>",
+      "<a href='https://github.com/cpelley'>@cpelley</a>",
+      "BUG: iris pp treats gregorian as a proleptic gregorian and ignores real proleptic gregorian calendars"
     ],
     [
       1,
