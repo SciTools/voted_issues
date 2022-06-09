@@ -158,12 +158,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4090'>#4090</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "suspected mpl 3.4.1 regression for a graphical test"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "PP saving soil depths incorrectly setting LBLEV=0"
