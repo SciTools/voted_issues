@@ -223,6 +223,12 @@
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3429'>#3429</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Minimise the cube API"
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
       "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
@@ -241,7 +247,7 @@
       "Clarify laziness status of all iris functions"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
       "Unify merge and concatenate"
