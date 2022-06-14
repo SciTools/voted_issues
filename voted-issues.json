@@ -2,6 +2,18 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4799'>#4799</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Review the Iris user experience"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4798'>#4798</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Iris Core + Plugins"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4788'>#4788</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "addition to Further Topics: Aux Factories and their Creation "
