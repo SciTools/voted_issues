@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/4812'>#4812</a>",
       "<a href='https://github.com/nhsavage'>@nhsavage</a>",
       "Allow creation of area weights for Lambert Conformal Grids"
