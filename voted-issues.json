@@ -205,12 +205,6 @@
       "Extend iris.common.resolve.Resolve to implicitly use target cube data"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/3835'>#3835</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Adopt py.test "
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
