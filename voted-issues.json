@@ -229,6 +229,12 @@
       "Cube arithmetic points/bounds mismatch errors"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3726'>#3726</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Make it easy to extract coords as separate cubes, and the reverse \"injection\""
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3717'>#3717</a>",
       "<a href='https://github.com/SimonPeatman'>@SimonPeatman</a>",
