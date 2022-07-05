@@ -296,12 +296,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/2987'>#2987</a>",
-      "<a href='https://github.com/rcomer'>@rcomer</a>",
-      "Mixing lazy and non-lazy masked cubes in arithmetic"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
       "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
       "Concatenate in load_cube?"
