@@ -205,7 +205,7 @@
       "No documentation on what units cube.convert_units actually converts? "
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/3936'>#3936</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "iris.util.mask_cube wish list"
