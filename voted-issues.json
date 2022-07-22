@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4872'>#4872</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Ancillary variable aware cube arithmetic"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/4860'>#4860</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
