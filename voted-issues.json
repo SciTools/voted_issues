@@ -311,12 +311,6 @@
       "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
       "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
       "Concatenate in load_cube?"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/1327'>#1327</a>",
-      "<a href='https://github.com/ajdawson'>@ajdawson</a>",
-      "Cube with unit Celsius multiplied by scalar has incorrect units"
     ]
   ]
 }
