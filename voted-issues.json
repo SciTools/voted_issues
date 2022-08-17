@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Better implementation of Aggregators"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4912'>#4912</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Unpin shapely"
