@@ -91,12 +91,6 @@
       "MeshCoord metadata should include the \"mesh\" property"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4672'>#4672</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Can't collapse over a mesh dimension"
-    ],
-    [
       10,
       "<a href='https://github.com/SciTools/iris/issues/4643'>#4643</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
