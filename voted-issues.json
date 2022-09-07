@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4943'>#4943</a>",
+      "<a href='https://github.com/tinyendian'>@tinyendian</a>",
+      "Enable lazy evaluation in iris.analysis.cartography.rotate_winds"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Better implementation of Aggregators"
