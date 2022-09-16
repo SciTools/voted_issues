@@ -7,7 +7,7 @@
       "Post `v3.3` release instruction adjustments"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4959'>#4959</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Add user advice on Dask \"best practices\" "
