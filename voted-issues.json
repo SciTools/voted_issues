@@ -307,7 +307,7 @@
       "More control over lazy data creation (chunking)"
     ],
     [
-      6,
+      9,
       "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "NetCDF global attributes vs data variable local attributes"
@@ -335,6 +335,12 @@
       "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
       "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
       "Concatenate in load_cube?"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/2478'>#2478</a>",
+      "<a href='https://github.com/pelson'>@pelson</a>",
+      "Concatenated cubes lose their derived coordinate"
     ]
   ]
 }
