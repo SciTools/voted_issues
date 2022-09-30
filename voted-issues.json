@@ -277,12 +277,6 @@
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3429'>#3429</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Minimise the cube API"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
       "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
