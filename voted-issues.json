@@ -19,6 +19,12 @@
       "Test more types of NAME file"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4973'>#4973</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Reinstate \"CubeList._repr_html_\" method."
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4959'>#4959</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
@@ -29,6 +35,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4943'>#4943</a>",
       "<a href='https://github.com/tinyendian'>@tinyendian</a>",
       "Enable lazy evaluation in iris.analysis.cartography.rotate_winds"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4941'>#4941</a>",
+      "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
+      "Check for scalar cubes before attempting to concatenate a CubeList"
     ],
     [
       1,
@@ -49,13 +61,13 @@
       "Ancillary variable aware cube arithmetic"
     ],
     [
-      2,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4860'>#4860</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
       "`MeshCoord` constructor always uses metadata of node coordinate regardless of `location`"
     ],
     [
-      2,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4830'>#4830</a>",
       "<a href='https://github.com/thomascrocker'>@thomascrocker</a>",
       "Iris does not recognise x and y coordinates of netCDF files with rotated mercator projection"
@@ -193,13 +205,13 @@
       "Additional cubeList.merge capability to extend AuxCoords and AncillaryVariables"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4197'>#4197</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Extract region from a cube with 2D latitude/longitude coordinates"
     ],
     [
-      2,
+      8,
       "<a href='https://github.com/SciTools/iris/issues/4190'>#4190</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Support lazy saving"
@@ -227,6 +239,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "PP saving soil depths incorrectly setting LBLEV=0"
+    ],
+    [
+      6,
+      "<a href='https://github.com/SciTools/iris/issues/4039'>#4039</a>",
+      "<a href='https://github.com/stefsmeets'>@stefsmeets</a>",
+      "Which statistics in `iris.analysis` are lazy?"
     ],
     [
       2,
@@ -260,6 +278,12 @@
     ],
     [
       2,
+      "<a href='https://github.com/SciTools/iris/issues/3678'>#3678</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Bounds of derived variable are not read correctly"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/3651'>#3651</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "CubeList.copy() should be a deepcopy()"
@@ -277,7 +301,7 @@
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
     ],
     [
-      5,
+      9,
       "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
       "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
       "More control over lazy data creation (chunking)"
