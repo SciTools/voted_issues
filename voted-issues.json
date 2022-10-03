@@ -337,7 +337,7 @@
       "Concatenate in load_cube?"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/2478'>#2478</a>",
       "<a href='https://github.com/pelson'>@pelson</a>",
       "Concatenated cubes lose their derived coordinate"
