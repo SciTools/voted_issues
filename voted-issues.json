@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5003'>#5003</a>",
       "<a href='https://github.com/bayliffe'>@bayliffe</a>",
       "Allow exemptions to coordinate axis guessing on save"
@@ -215,6 +215,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4190'>#4190</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Support lazy saving"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Explain how to save data with a specific STASH code"
     ],
     [
       2,
