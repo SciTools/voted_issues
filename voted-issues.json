@@ -7,7 +7,7 @@
       "Allow exemptions to coordinate axis guessing on save"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Xarray bridge"
@@ -191,6 +191,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4396'>#4396</a>",
+      "<a href='https://github.com/jamesp'>@jamesp</a>",
+      "Remove old documentation from scitools.org.uk"
     ],
     [
       2,
