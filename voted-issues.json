@@ -7,7 +7,7 @@
       "Allow exemptions to coordinate axis guessing on save"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Xarray bridge"
