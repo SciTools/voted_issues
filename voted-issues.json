@@ -19,12 +19,6 @@
       "Test more types of NAME file"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4973'>#4973</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Reinstate \"CubeList._repr_html_\" method."
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4959'>#4959</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
