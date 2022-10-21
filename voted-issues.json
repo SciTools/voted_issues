@@ -55,12 +55,6 @@
       "Ancillary variable aware cube arithmetic"
     ],
     [
-      7,
-      "<a href='https://github.com/SciTools/iris/issues/4860'>#4860</a>",
-      "<a href='https://github.com/schlunma'>@schlunma</a>",
-      "`MeshCoord` constructor always uses metadata of node coordinate regardless of `location`"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4830'>#4830</a>",
       "<a href='https://github.com/thomascrocker'>@thomascrocker</a>",
