@@ -292,7 +292,7 @@
       1,
       "<a href='https://github.com/SciTools/iris/issues/3561'>#3561</a>",
       "<a href='https://github.com/cpelley'>@cpelley</a>",
-      "BUG: iris pp treats gregorian as a proleptic gregorian and ignores real proleptic gregorian calendars"
+      "BUG: iris pp treats standard calendar as a proleptic gregorian and ignores real proleptic gregorian calendars"
     ],
     [
       1,
