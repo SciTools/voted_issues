@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5050'>#5050</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Merging attributes of different cubes before concatenation/merging"
+    ],
+    [
       21,
       "<a href='https://github.com/SciTools/iris/issues/5003'>#5003</a>",
       "<a href='https://github.com/bayliffe'>@bayliffe</a>",
