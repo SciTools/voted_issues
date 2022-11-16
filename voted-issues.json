@@ -164,12 +164,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4463'>#4463</a>",
-      "<a href='https://github.com/schlunma'>@schlunma</a>",
-      "Regridding with `iris.analysis.UnstructuredNearest` does not preserve `dtype` and masks"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/4453'>#4453</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Case insensitive lenient special name support?"
