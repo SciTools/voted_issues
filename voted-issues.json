@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5098'>#5098</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Image test `idiff.py` acceptance not working as intended"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5091'>#5091</a>",
       "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
       "Create phrase book for xarray to/from iris"
