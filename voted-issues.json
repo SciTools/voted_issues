@@ -289,12 +289,6 @@
       "Bounds of derived variable are not read correctly"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/3651'>#3651</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "CubeList.copy() should be a deepcopy()"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/3561'>#3561</a>",
       "<a href='https://github.com/cpelley'>@cpelley</a>",
