@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5115'>#5115</a>",
+      "<a href='https://github.com/sloosvel'>@sloosvel</a>",
+      "Concatenating cubes realises auxiliary coordinates."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5098'>#5098</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Image test `idiff.py` acceptance not working as intended"
