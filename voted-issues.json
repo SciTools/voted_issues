@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5121'>#5121</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "sphinx-panels package not longer maintained"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5115'>#5115</a>",
       "<a href='https://github.com/sloosvel'>@sloosvel</a>",
