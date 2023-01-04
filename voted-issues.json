@@ -271,12 +271,6 @@
       "PP saving soil depths incorrectly setting LBLEV=0"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/4039'>#4039</a>",
-      "<a href='https://github.com/stefsmeets'>@stefsmeets</a>",
-      "Which statistics in `iris.analysis` are lazy?"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
