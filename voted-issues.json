@@ -199,6 +199,12 @@
       "Lenient Cube Merge"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4412'>#4412</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Cubes with string data won't save, or index"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/4337'>#4337</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
@@ -245,6 +251,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Preserve dtype for wrap_lons"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4101'>#4101</a>",
+      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
+      "Iris cannot read NetCDF4 strings stored in NetCDF variables"
     ],
     [
       1,
