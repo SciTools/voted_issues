@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5131'>#5131</a>",
       "<a href='https://github.com/afinnen'>@afinnen</a>",
       "Iris cubes not merging for re-initialised LFRic files"
