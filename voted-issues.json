@@ -2,6 +2,12 @@
   "data": [
     [
       2,
+      "<a href='https://github.com/SciTools/iris/issues/5131'>#5131</a>",
+      "<a href='https://github.com/afinnen'>@afinnen</a>",
+      "Iris cubes not merging for re-initialised LFRic files"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Cannot save non-ASCII characters to NetCDF"
