@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "Create generic regridder from user provided weights."
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/5131'>#5131</a>",
       "<a href='https://github.com/afinnen'>@afinnen</a>",
