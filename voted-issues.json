@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5175'>#5175</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Allow extraction with bounded time-coordinates."
