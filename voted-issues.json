@@ -13,7 +13,7 @@
       "Allow extraction with bounded time-coordinates."
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5173'>#5173</a>",
       "<a href='https://github.com/lbdreyer'>@lbdreyer</a>",
       "Retire Iris' TestRunner"
