@@ -361,12 +361,6 @@
       "Allow cubes to share data"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/3048'>#3048</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "unpin numpy legacy printing"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
       "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
