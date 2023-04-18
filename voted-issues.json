@@ -19,12 +19,6 @@
       "Cannot save non-ASCII characters to NetCDF"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5121'>#5121</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "sphinx-panels package no longer maintained"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/5115'>#5115</a>",
       "<a href='https://github.com/sloosvel'>@sloosvel</a>",
