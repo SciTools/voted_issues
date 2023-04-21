@@ -235,12 +235,6 @@
       "Extract region from a cube with 2D latitude/longitude coordinates"
     ],
     [
-      8,
-      "<a href='https://github.com/SciTools/iris/issues/4190'>#4190</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "Support lazy saving"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
