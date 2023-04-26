@@ -14,11 +14,11 @@ jobs:
     steps:
       # Checkout the repo this is running in
       - name: checkout this repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # setup python, lets default to the latest version
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
 
       - name: Install dependencies
         run: |
