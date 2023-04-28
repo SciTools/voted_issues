@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5290'>#5290</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Lazy `iris.experimental.stratify.relevel`"
+    ],
+    [
       6,
       "<a href='https://github.com/SciTools/iris/issues/5175'>#5175</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
