@@ -152,6 +152,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4721'>#4721</a>",
+      "<a href='https://github.com/tkknight'>@tkknight</a>",
+      "numpydoc adoption tick list"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4679'>#4679</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Make it clearer / easier to find how to cite Iris"
