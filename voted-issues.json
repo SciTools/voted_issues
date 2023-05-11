@@ -8,6 +8,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5314'>#5314</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "`Cube.collapsed()` should produce an un-masked `Cube` if the original is un-masked"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5305'>#5305</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Incorrect units when dividing a coordinate by a cube"
