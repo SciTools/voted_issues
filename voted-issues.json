@@ -367,12 +367,6 @@
       "NetCDF global attributes vs data variable local attributes"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3292'>#3292</a>",
-      "<a href='https://github.com/corinnebosley'>@corinnebosley</a>",
-      "Clarify laziness status of all iris functions"
-    ],
-    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
