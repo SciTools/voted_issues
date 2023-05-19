@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5330'>#5330</a>",
+      "<a href='https://github.com/bblay'>@bblay</a>",
+      "lenient intersetion_of_cubes()"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5315'>#5315</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "cftime warnings on pp-load"
