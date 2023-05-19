@@ -8,12 +8,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/5329'>#5329</a>",
-      "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
-      "Repopatch with numpy !=1.24.3 pin"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/5315'>#5315</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "cftime warnings on pp-load"
