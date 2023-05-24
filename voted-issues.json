@@ -229,12 +229,6 @@
       "Warn or error rather than returning None from name check in netcdf"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4453'>#4453</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "Case insensitive lenient special name support?"
-    ],
-    [
       6,
       "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
