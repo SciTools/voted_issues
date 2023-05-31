@@ -8,6 +8,18 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5319'>#5319</a>",
+      "<a href='https://github.com/alistairsellar'>@alistairsellar</a>",
+      "Iris 3.3.1 fails unhelpfully when it finds a bad cell_methods attribute"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5318'>#5318</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Cube slice operation changes the data array type"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5315'>#5315</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "cftime warnings on pp-load"
@@ -31,7 +43,7 @@
       "Lazy `iris.experimental.stratify.relevel`"
     ],
     [
-      6,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/5175'>#5175</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Allow extraction with bounded time-coordinates."
@@ -277,7 +289,7 @@
       "Leniently Comparing Coordinates"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Link Checking Procedure"
