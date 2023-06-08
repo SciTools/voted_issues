@@ -145,7 +145,7 @@
       "Iris does not recognise x and y coordinates of netCDF files with rotated mercator projection"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4812'>#4812</a>",
       "<a href='https://github.com/nhsavage'>@nhsavage</a>",
       "Allow creation of area weights for Lambert Conformal Grids"
