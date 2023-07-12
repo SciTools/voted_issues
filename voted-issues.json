@@ -7,7 +7,7 @@
       "Various Cube merge/concatenate issues"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5373'>#5373</a>",
       "<a href='https://github.com/jfrost-mo'>@jfrost-mo</a>",
       "Change the default version of the documentation to stable rather than latest on ReadTheDocs"
