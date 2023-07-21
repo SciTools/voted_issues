@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5385'>#5385</a>",
+      "<a href='https://github.com/acchamber'>@acchamber</a>",
+      "Add ability to mask cube from shapefile"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5375'>#5375</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Various Cube merge/concatenate issues"
