@@ -343,12 +343,6 @@
       "PP saving soil depths incorrectly setting LBLEV=0"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
-      "<a href='https://github.com/acchamber'>@acchamber</a>",
-      "No documentation on what units cube.convert_units actually converts? "
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
