@@ -2,6 +2,24 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5395'>#5395</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Trial `iris.common.resolve` in CubeList.concatenate()"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5394'>#5394</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Trial `iris.common.resolve` in `CubeList.merge()`"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5392'>#5392</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Lenient Cube Concatenate"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5386'>#5386</a>",
       "<a href='https://github.com/tkknight'>@tkknight</a>",
       "DOCS: Git URL formatting"
@@ -277,7 +295,7 @@
       "A Dataless Cube"
     ],
     [
-      14,
+      15,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
