@@ -410,12 +410,6 @@
     ],
     [
       9,
-      "<a href='https://github.com/SciTools/iris/issues/3333'>#3333</a>",
-      "<a href='https://github.com/TomekTrzeciak'>@TomekTrzeciak</a>",
-      "More control over lazy data creation (chunking)"
-    ],
-    [
-      9,
       "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "NetCDF global attributes vs data variable local attributes"
