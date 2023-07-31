@@ -91,12 +91,6 @@
       "Lazy `iris.experimental.stratify.relevel`"
     ],
     [
-      7,
-      "<a href='https://github.com/SciTools/iris/issues/5175'>#5175</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Allow extraction with bounded time-coordinates."
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
@@ -173,6 +167,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Better implementation of Aggregators"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4883'>#4883</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Trial different memory profiler in benchmarks"
     ],
     [
       1,
