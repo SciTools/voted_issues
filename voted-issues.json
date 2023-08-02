@@ -25,7 +25,7 @@
       "DOCS: Git URL formatting"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/5385'>#5385</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Add ability to mask cube from shapefile"
