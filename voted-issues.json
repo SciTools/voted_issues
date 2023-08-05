@@ -176,12 +176,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Better implementation of Aggregators"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/4883'>#4883</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Trial different memory profiler in benchmarks"
