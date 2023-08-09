@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5417'>#5417</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Interoperability with Gridded"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5395'>#5395</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Trial `iris.common.resolve` in CubeList.concatenate()"
