@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5426'>#5426</a>",
+      "<a href='https://github.com/rebeccaherman1'>@rebeccaherman1</a>",
+      "Quickplot Automatic Time Axis Label Completely Incorrect"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5417'>#5417</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Interoperability with Gridded"
