@@ -410,12 +410,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/3559'>#3559</a>",
-      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
-      "Improve floating point representation in generation of regular grids that use a reference point and spacings"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/3413'>#3413</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Adopt logging -- or something?"
