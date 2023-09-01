@@ -92,12 +92,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/5305'>#5305</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Incorrect units when dividing a coordinate by a cube"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/5290'>#5290</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Lazy `iris.experimental.stratify.relevel`"
