@@ -14,6 +14,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5461'>#5461</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "More tolerant AreaWeighted regridding behaviour for target cells stradling the source extents"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5426'>#5426</a>",
       "<a href='https://github.com/rebeccaherman1'>@rebeccaherman1</a>",
       "Quickplot Automatic Time Axis Label Completely Incorrect"
