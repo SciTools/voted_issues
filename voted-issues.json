@@ -454,7 +454,7 @@
       1,
       "<a href='https://github.com/SciTools/iris/issues/3172'>#3172</a>",
       "<a href='https://github.com/DPeterK'>@DPeterK</a>",
-      "Allow cubes to share data"
+      "Allow cubes/coords/etc to share data"
     ],
     [
       1,
