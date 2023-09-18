@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5499'>#5499</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Experiment with community workarounds to duplicated warnings"
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/5486'>#5486</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
