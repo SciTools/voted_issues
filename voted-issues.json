@@ -295,12 +295,6 @@
       "Adopt pyproj.CRS"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4628'>#4628</a>",
-      "<a href='https://github.com/tkknight'>@tkknight</a>",
-      "Stale GHA instructions to reopen issue do not work for non GitHub team members"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/4538'>#4538</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
