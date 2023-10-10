@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5539'>#5539</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Need a test/routine for hash alignment between test data images and `imagerepo.json`"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5517'>#5517</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
