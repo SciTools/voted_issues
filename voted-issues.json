@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5541'>#5541</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "How to calculate seasonal temporal correlations?"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5539'>#5539</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Need a test/routine for hash alignment between test data images and `imagerepo.json`"
