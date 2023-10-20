@@ -110,6 +110,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5369'>#5369</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Time dimension in hybrid height"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5348'>#5348</a>",
       "<a href='https://github.com/morobking'>@morobking</a>",
       "Coordinate valid range and intersection issue"
