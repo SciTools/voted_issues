@@ -241,12 +241,6 @@
       "Ancillary variable aware cube arithmetic"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/4830'>#4830</a>",
-      "<a href='https://github.com/thomascrocker'>@thomascrocker</a>",
-      "Iris does not recognise x and y coordinates of netCDF files with rotated mercator projection"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4812'>#4812</a>",
       "<a href='https://github.com/nhsavage'>@nhsavage</a>",
