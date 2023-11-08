@@ -157,12 +157,6 @@
       "Cannot save non-ASCII characters to NetCDF"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/5115'>#5115</a>",
-      "<a href='https://github.com/sloosvel'>@sloosvel</a>",
-      "Concatenating cubes realises auxiliary coordinates."
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5091'>#5091</a>",
       "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
