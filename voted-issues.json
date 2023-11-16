@@ -7,7 +7,7 @@
       "Encourage PyTest, discourage old-style, in Iris documentation"
     ],
     [
-      3,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/5562'>#5562</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "MeshCoord should support a coordinate system"
