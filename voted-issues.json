@@ -181,12 +181,6 @@
       "Merging attributes of different cubes before concatenation/merging"
     ],
     [
-      21,
-      "<a href='https://github.com/SciTools/iris/issues/5003'>#5003</a>",
-      "<a href='https://github.com/bayliffe'>@bayliffe</a>",
-      "Allow exemptions to coordinate axis guessing on save"
-    ],
-    [
       6,
       "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
