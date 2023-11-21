@@ -433,12 +433,6 @@
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
     ],
     [
-      9,
-      "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "NetCDF global attributes vs data variable local attributes"
-    ],
-    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
