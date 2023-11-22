@@ -151,7 +151,7 @@
       "Cube slice operation changes the data array type"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5314'>#5314</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "`Cube.collapsed()` should produce an un-masked `Cube` if the original is un-masked"
