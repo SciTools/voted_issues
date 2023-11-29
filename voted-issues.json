@@ -368,6 +368,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "PP saving soil depths incorrectly setting LBLEV=0"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Extend iris.common.resolve.Resolve to implicitly use target cube data"
@@ -385,7 +391,7 @@
       "Cube arithmetic points/bounds mismatch errors"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/3726'>#3726</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Make it easy to extract coords as separate cubes, and the reverse \"injection\""
