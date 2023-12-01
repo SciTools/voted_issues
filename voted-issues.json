@@ -164,6 +164,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5171'>#5171</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Loading not possible with non-standard netcdf variable names"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Create generic regridder from user provided weights."
