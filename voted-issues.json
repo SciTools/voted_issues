@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5625'>#5625</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "ruff: incremental adoption"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5589'>#5589</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
       "Document the new `ignore_axis` functionality."
