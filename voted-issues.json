@@ -8,6 +8,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5611'>#5611</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Lazy `iris.analysis.cartography.area_weights`"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5589'>#5589</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
       "Document the new `ignore_axis` functionality."
