@@ -1,4 +1,4 @@
-# Votable Issues
+# Votable Issues 
 
 [![Refresh Voted Issues](https://github.com/SciTools/voted_issues/actions/workflows/refresh-voted-issues.yml/badge.svg)](https://github.com/SciTools/voted_issues/actions/workflows/refresh-voted-issues.yml)
 
