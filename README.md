@@ -27,3 +27,10 @@ GItHub token value.
 $ export GH_TOKEN=********************
 $ python query_gh_votable_issues.py
 ```
+
+### CLA
+
+The [**CLA**](https://cla-assistant.io/SciTools/) check will run on pull
+requests, as with the rest of SciTools, but the CLA is NOT part of any
+branch protection rule as this would block the workflow of merging directly
+to `main`.
