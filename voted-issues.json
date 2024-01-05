@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5673'>#5673</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Create an `ApproxConstraint` class"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5625'>#5625</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "ruff: incremental adoption"
@@ -253,7 +259,7 @@
       "Review the Iris user experience"
     ],
     [
-      6,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4798'>#4798</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Iris Core + Plugins"
@@ -361,7 +367,7 @@
       "Explain how to save data with a specific STASH code"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Link Checking Procedure"
