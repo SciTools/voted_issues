@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5683'>#5683</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Include helpful error if non-identical meshes have prevented concatenation or merging"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5673'>#5673</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Create an `ApproxConstraint` class"
