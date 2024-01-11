@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5690'>#5690</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Pytest adoption tracker"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5683'>#5683</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Include helpful error if non-identical meshes have prevented concatenation or merging"
