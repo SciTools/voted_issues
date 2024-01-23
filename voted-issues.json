@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5708'>#5708</a>",
       "<a href='https://github.com/tkknight'>@tkknight</a>",
       "DOCS: Adopt autoapi v3 for our API doc generation."
