@@ -70,7 +70,7 @@
       2,
       "<a href='https://github.com/SciTools/iris/issues/5517'>#5517</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Geovista bridge"
+      "Iris bridge to GeoVista"
     ],
     [
       1,
@@ -287,12 +287,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4737'>#4737</a>",
       "<a href='https://github.com/cgsandford'>@cgsandford</a>",
       "Extract time cell points as python datetimes for plotting"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4721'>#4721</a>",
-      "<a href='https://github.com/tkknight'>@tkknight</a>",
-      "numpydoc adoption tick list"
     ],
     [
       1,
