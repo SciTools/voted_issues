@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5743'>#5743</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Cube printout should not compute lazy scalar coordinates"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5708'>#5708</a>",
       "<a href='https://github.com/tkknight'>@tkknight</a>",
