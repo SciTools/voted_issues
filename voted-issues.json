@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5749'>#5749</a>",
+      "<a href='https://github.com/hdyson'>@hdyson</a>",
+      "Improve datum FUTURE warning"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5743'>#5743</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Cube printout should not compute lazy scalar coordinates"
