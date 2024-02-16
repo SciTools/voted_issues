@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5751'>#5751</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "Expand \"which regridder\" documentation by addressing todos"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5749'>#5749</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Improve datum FUTURE warning"
