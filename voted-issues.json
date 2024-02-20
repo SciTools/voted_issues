@@ -128,6 +128,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5455'>#5455</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Computational performance of `iris.cube.Cube.aggregated_by` with lazy data"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5417'>#5417</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Interoperability with Gridded"
