@@ -19,7 +19,7 @@
       "Improve datum FUTURE warning"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5743'>#5743</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Cube printout should not compute lazy scalar coordinates"
