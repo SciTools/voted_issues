@@ -247,12 +247,6 @@
       "Merging attributes of different cubes before concatenation/merging"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Xarray bridge"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/4979'>#4979</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
