@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Convenience function for making a regridding target `Cube` of specified shape"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5751'>#5751</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
