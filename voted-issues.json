@@ -482,12 +482,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/2587'>#2587</a>",
-      "<a href='https://github.com/PAGWatson'>@PAGWatson</a>",
-      "Concatenate in load_cube?"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/2076'>#2076</a>",
       "<a href='https://github.com/ehogan'>@ehogan</a>",
       "Unable to merge cubes with cell measures when using a time constraint"
