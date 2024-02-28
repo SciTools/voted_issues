@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5774'>#5774</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "`iris.util.rolling_window` does not support Dask arrays"
+    ],
+    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -11,6 +17,12 @@
       "<a href='https://github.com/SciTools/iris/issues/5769'>#5769</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
       "Make concatenation signature public?"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5768'>#5768</a>",
+      "<a href='https://github.com/bblay'>@bblay</a>",
+      "Merge dimension mashup"
     ],
     [
       1,
@@ -133,7 +145,7 @@
       "More tolerant AreaWeighted regridding behaviour for target cells stradling the source extents"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5457'>#5457</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Auxiliary coordinates created by HybridPressureFactory have huge chunks"
