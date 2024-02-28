@@ -25,7 +25,7 @@
       "Parallelising cubes concatenation"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5749'>#5749</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Improve datum FUTURE warning"
