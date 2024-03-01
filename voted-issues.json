@@ -1,12 +1,6 @@
 {
   "data": [
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5774'>#5774</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "`iris.util.rolling_window` does not support Dask arrays"
-    ],
-    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
