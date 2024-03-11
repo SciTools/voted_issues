@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5809'>#5809</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Remove test file runnability"
+    ],
+    [
       6,
       "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
