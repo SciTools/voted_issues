@@ -409,6 +409,12 @@
       "Extract region from a cube with 2D latitude/longitude coordinates"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Explain how to save data with a specific STASH code"
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
