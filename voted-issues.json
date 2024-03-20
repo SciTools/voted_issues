@@ -181,12 +181,6 @@
       "Lenient Cube Concatenate"
     ],
     [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/5385'>#5385</a>",
-      "<a href='https://github.com/acchamber'>@acchamber</a>",
-      "Add ability to mask cube from shapefile"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/5377'>#5377</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
