@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5879'>#5879</a>",
+      "<a href='https://github.com/astroDimitrios'>@astroDimitrios</a>",
+      "Add accessibility statement to the documentation"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5809'>#5809</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Remove test file runnability"
