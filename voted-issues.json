@@ -157,7 +157,7 @@
       "Auxiliary coordinates created by HybridPressureFactory have huge chunks"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5455'>#5455</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Computational performance of `iris.cube.Cube.aggregated_by` with lazy data"
