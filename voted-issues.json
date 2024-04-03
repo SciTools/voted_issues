@@ -49,12 +49,6 @@
       "Improve datum FUTURE warning"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/5743'>#5743</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Cube printout should not compute lazy scalar coordinates"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5708'>#5708</a>",
       "<a href='https://github.com/tkknight'>@tkknight</a>",
@@ -113,12 +107,6 @@
       "<a href='https://github.com/SciTools/iris/issues/5539'>#5539</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Need a test/routine for hash alignment between test data images and `imagerepo.json`"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5517'>#5517</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Iris bridge to GeoVista"
     ],
     [
       1,
