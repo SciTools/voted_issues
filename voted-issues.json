@@ -79,12 +79,6 @@
       "ruff: incremental adoption"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5611'>#5611</a>",
-      "<a href='https://github.com/schlunma'>@schlunma</a>",
-      "Lazy `iris.analysis.cartography.area_weights`"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5574'>#5574</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
