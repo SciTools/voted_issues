@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/5908'>#5908</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Rationalising mesh dimension names"
