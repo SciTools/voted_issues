@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5924'>#5924</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Typing support"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5909'>#5909</a>",
       "<a href='https://github.com/leosaffin'>@leosaffin</a>",
       "iris.coord_categorisation.add_season_membership creates a boolean coordinate that cannot be saved to netcdf"
