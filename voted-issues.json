@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5929'>#5929</a>",
+      "<a href='https://github.com/ScottWales'>@ScottWales</a>",
+      "Iris incorrectly failing valid netcdf names"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/5924'>#5924</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
