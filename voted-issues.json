@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5939'>#5939</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Constrained load on MeshCoord bypasses callback"
