@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5939'>#5939</a>",
+      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
+      "Contstrained load on MeshCoord bypasses callback"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5929'>#5929</a>",
       "<a href='https://github.com/ScottWales'>@ScottWales</a>",
@@ -485,12 +491,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
       "Unify merge and concatenate"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3172'>#3172</a>",
-      "<a href='https://github.com/DPeterK'>@DPeterK</a>",
-      "Allow cubes/coords/etc to share data"
     ],
     [
       1,
