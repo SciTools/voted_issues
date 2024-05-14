@@ -445,12 +445,6 @@
       "Preserve dtype for wrap_lons"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Extend iris.common.resolve.Resolve to implicitly use target cube data"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
