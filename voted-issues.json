@@ -67,7 +67,7 @@
       "Expand \"which regridder\" documentation by addressing todos"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/5750'>#5750</a>",
       "<a href='https://github.com/fnattino'>@fnattino</a>",
       "Parallelising cubes concatenation"
