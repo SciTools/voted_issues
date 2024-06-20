@@ -61,12 +61,6 @@
       "iris.coord_categorisation.add_season_membership creates a boolean coordinate that cannot be saved to netcdf"
     ],
     [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/5908'>#5908</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Rationalising mesh dimension names"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5879'>#5879</a>",
       "<a href='https://github.com/astroDimitrios'>@astroDimitrios</a>",
