@@ -224,12 +224,6 @@
     ],
     [
       3,
-      "<a href='https://github.com/SciTools/iris/issues/5377'>#5377</a>",
-      "<a href='https://github.com/bblay'>@bblay</a>",
-      "Can't collapse mesh"
-    ],
-    [
-      3,
       "<a href='https://github.com/SciTools/iris/issues/5375'>#5375</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Various Cube merge/concatenate issues"
