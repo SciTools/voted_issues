@@ -103,7 +103,7 @@
       "Parallelising cubes concatenation"
     ],
     [
-      4,
+      6,
       "<a href='https://github.com/SciTools/iris/issues/5749'>#5749</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Improve datum FUTURE warning"
