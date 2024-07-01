@@ -343,7 +343,7 @@
       "Allow creation of area weights for Lambert Conformal Grids"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4799'>#4799</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Review the Iris user experience"
