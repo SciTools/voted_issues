@@ -409,12 +409,6 @@
       "Provide a neat way to get date strings from arrays with date units."
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4495'>#4495</a>",
-      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Warn or error rather than returning None from name check in netcdf"
-    ],
-    [
       7,
       "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
