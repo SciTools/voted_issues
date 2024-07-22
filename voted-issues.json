@@ -26,6 +26,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5982'>#5982</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Implement copying of meshes"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5977'>#5977</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Remove `GeoAxes` patch at next Cartopy release"
