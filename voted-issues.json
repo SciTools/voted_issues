@@ -176,6 +176,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5464'>#5464</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Fix duplicated warnings"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5461'>#5461</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "More tolerant AreaWeighted regridding behaviour for target cells stradling the source extents"
