@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6097'>#6097</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "2D guess bounds"
+    ],
+    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/6085'>#6085</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
