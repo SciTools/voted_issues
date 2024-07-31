@@ -7,7 +7,7 @@
       "2D guess bounds"
     ],
     [
-      5,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/6085'>#6085</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Allow global attributes on a Mesh"
