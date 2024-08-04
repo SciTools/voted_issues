@@ -289,12 +289,6 @@
       "Handling of Standard name aliases"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5171'>#5171</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Loading not possible with non-standard netcdf variable names"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
