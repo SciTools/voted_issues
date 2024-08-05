@@ -289,6 +289,12 @@
       "Handling of Standard name aliases"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "Create generic regridder from user provided weights."
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -437,12 +443,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Link Checking Procedure"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Preserve dtype for wrap_lons"
     ],
     [
       2,
