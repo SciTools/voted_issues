@@ -475,6 +475,12 @@
       "Preserve dtype for wrap_lons"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4101'>#4101</a>",
+      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
+      "Iris cannot read NetCDF4 strings stored in NetCDF variables"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
