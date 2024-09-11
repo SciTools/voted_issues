@@ -13,12 +13,6 @@
       "Use pytest to run doctests"
     ],
     [
-      5,
-      "<a href='https://github.com/SciTools/iris/issues/6108'>#6108</a>",
-      "<a href='https://github.com/mo-tgeddes'>@mo-tgeddes</a>",
-      "Comparisons for FormatAgent()"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6097'>#6097</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
