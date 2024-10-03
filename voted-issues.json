@@ -385,7 +385,7 @@
       "Make it clearer / easier to find how to cite Iris"
     ],
     [
-      13,
+      14,
       "<a href='https://github.com/SciTools/iris/issues/4643'>#4643</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Adopt pyproj.CRS"
