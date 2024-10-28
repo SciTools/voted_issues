@@ -457,12 +457,6 @@
       "Iris cannot read NetCDF4 strings stored in NetCDF variables"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/3820'>#3820</a>",
-      "<a href='https://github.com/hdyson'>@hdyson</a>",
-      "Incorrect LBLEV in pp save rules for surface fields."
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/3776'>#3776</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
