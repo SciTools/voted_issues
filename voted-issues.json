@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6212'>#6212</a>",
+      "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
+      "Convert tests from unittest to pytest"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6178'>#6178</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "`valid_range` attribute is unsafely cast on `NETCDF4_CLASSIC` save"
@@ -143,12 +149,6 @@
       "<a href='https://github.com/SciTools/iris/issues/5625'>#5625</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "ruff: incremental adoption"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5574'>#5574</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Encourage PyTest, discourage old-style, in Iris documentation"
     ],
     [
       4,
