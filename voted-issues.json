@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6222'>#6222</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "embed asciinema examples within documentation"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6212'>#6212</a>",
       "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
       "Convert tests from unittest to pytest"
