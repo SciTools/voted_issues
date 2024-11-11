@@ -259,12 +259,6 @@
       "Add to and improve the information in the Dask best practices section"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/5330'>#5330</a>",
-      "<a href='https://github.com/bblay'>@bblay</a>",
-      "lenient intersetion_of_cubes()"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5319'>#5319</a>",
       "<a href='https://github.com/alistairsellar'>@alistairsellar</a>",
