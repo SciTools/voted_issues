@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6251'>#6251</a>",
       "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
       "Severe slicing bug when slicing a cube with a boolean ndarray"
