@@ -379,12 +379,6 @@
       "Adopt pyproj.CRS"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4538'>#4538</a>",
-      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Degraded PP load times in later Iris versions"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4523'>#4523</a>",
       "<a href='https://github.com/SimonPeatman'>@SimonPeatman</a>",
