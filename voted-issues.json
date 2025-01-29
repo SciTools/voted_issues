@@ -56,12 +56,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/6002'>#6002</a>",
-      "<a href='https://github.com/fnattino'>@fnattino</a>",
-      "Lazy cube interpolation"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/6000'>#6000</a>",
       "<a href='https://github.com/hsteptoe'>@hsteptoe</a>",
       "Citation github <-> Zenodo mismatch"
