@@ -476,12 +476,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/2076'>#2076</a>",
-      "<a href='https://github.com/ehogan'>@ehogan</a>",
-      "Unable to merge cubes with cell measures when using a time constraint"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
       "<a href='https://github.com/duncanwp'>@duncanwp</a>",
       "Interpolation over derived coordinates"
