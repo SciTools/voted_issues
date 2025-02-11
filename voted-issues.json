@@ -295,12 +295,6 @@
       "Cannot save non-ASCII characters to NetCDF"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/4959'>#4959</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Add user advice on Dask \"best practices\" "
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/4941'>#4941</a>",
       "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
