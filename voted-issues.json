@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6316'>#6316</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Simplify netcdf loading rules/actions"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6292'>#6292</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Perform linkchecks periodically instead of on PRs"
