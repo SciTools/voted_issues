@@ -403,12 +403,6 @@
       "Applying logical OR to a constraint \"fails\" silently"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4335'>#4335</a>",
-      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Additional cubeList.merge capability to extend AuxCoords and AncillaryVariables"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4197'>#4197</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
