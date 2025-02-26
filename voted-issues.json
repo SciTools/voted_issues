@@ -379,12 +379,6 @@
       "Provide a neat way to get date strings from arrays with date units."
     ],
     [
-      7,
-      "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "A Dataless Cube"
-    ],
-    [
       15,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
