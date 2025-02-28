@@ -31,12 +31,6 @@
       "Convert tests from unittest to pytest"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/6178'>#6178</a>",
-      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
-      "`valid_range` attribute is unsafely cast on `NETCDF4_CLASSIC` save"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6110'>#6110</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
