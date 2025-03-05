@@ -13,7 +13,7 @@
       "Perform linkchecks periodically instead of on PRs"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/6263'>#6263</a>",
       "<a href='https://github.com/neilCrosswaite'>@neilCrosswaite</a>",
       "Preserve `crs_wkt` when loading and saving NetCDF files"
