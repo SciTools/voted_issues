@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6358'>#6358</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Implement variable-length chunksize hinting for netcdf loads"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6316'>#6316</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Simplify netcdf loading rules/actions"
