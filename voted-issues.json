@@ -247,12 +247,6 @@
       "Various Cube merge/concatenate issues"
     ],
     [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/5369'>#5369</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Time dimension in hybrid height"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5348'>#5348</a>",
       "<a href='https://github.com/morobking'>@morobking</a>",
