@@ -19,12 +19,6 @@
       "Simplify netcdf loading rules/actions"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/6292'>#6292</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Perform linkchecks periodically instead of on PRs"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6263'>#6263</a>",
       "<a href='https://github.com/neilCrosswaite'>@neilCrosswaite</a>",
@@ -401,12 +395,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Explain how to save data with a specific STASH code"
-    ],
-    [
-      5,
-      "<a href='https://github.com/SciTools/iris/issues/4140'>#4140</a>",
-      "<a href='https://github.com/rcomer'>@rcomer</a>",
-      "Link Checking Procedure"
     ],
     [
       2,
