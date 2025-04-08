@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6404'>#6404</a>",
+      "<a href='https://github.com/david-bentley'>@david-bentley</a>",
+      "Memory issues loading pp files with default LOAD_POLICY"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6374'>#6374</a>",
       "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
       "Extend Iris loading to accept S3 URLs"
