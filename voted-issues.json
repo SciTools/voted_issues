@@ -349,7 +349,7 @@
       "Iris Core + Plugins"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/4779'>#4779</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Re-implement cube repr_html"
