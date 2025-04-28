@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6419'>#6419</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "`iris.pandas.as_data_frame` cannot handle scalar cubes"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6411'>#6411</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "convert_units does not convert valid_min/valid_max"
