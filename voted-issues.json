@@ -31,7 +31,7 @@
       "Memory issues loading pp files with default LOAD_POLICY"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6374'>#6374</a>",
       "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
       "Extend Iris loading to accept S3 URLs"
