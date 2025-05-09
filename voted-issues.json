@@ -13,12 +13,6 @@
       "`iris.pandas.as_data_frame` cannot handle scalar cubes"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6417'>#6417</a>",
-      "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
-      "issue with iris saver with delayed and dask==2025.4.0"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6411'>#6411</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
