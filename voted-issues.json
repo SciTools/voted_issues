@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6437'>#6437</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Consider switching from `array.compute()` to `dask.compute(array)`"
