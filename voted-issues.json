@@ -8,6 +8,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6436'>#6436</a>",
+      "<a href='https://github.com/acchamber'>@acchamber</a>",
+      "iris.Load inconsistantly merging cubes on load"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6419'>#6419</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
       "`iris.pandas.as_data_frame` cannot handle scalar cubes"
