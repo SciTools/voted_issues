@@ -26,12 +26,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/6411'>#6411</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "convert_units does not convert valid_min/valid_max"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/6404'>#6404</a>",
       "<a href='https://github.com/david-bentley'>@david-bentley</a>",
       "Memory issues loading pp files with default LOAD_POLICY"
