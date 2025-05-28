@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6480'>#6480</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Failing rolling window"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6464'>#6464</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
