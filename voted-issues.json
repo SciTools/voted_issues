@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6480'>#6480</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Failing rolling window"
