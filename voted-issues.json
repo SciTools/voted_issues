@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6486'>#6486</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Incorrect dimension labelling for multi-cube NetCDF save"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6480'>#6480</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
