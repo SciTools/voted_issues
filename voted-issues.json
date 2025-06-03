@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6490'>#6490</a>",
+      "<a href='https://github.com/mo-DanCubbon'>@mo-DanCubbon</a>",
+      "Search Highlighting Illegible In Dark Mode"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6486'>#6486</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Incorrect dimension labelling for multi-cube NetCDF save"
