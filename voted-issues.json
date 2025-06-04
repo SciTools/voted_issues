@@ -1,10 +1,16 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6490'>#6490</a>",
       "<a href='https://github.com/mo-DanCubbon'>@mo-DanCubbon</a>",
       "Search Highlighting Illegible In Dark Mode"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6488'>#6488</a>",
+      "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
+      "Format repr_html for better readability"
     ],
     [
       1,
@@ -403,7 +409,7 @@
       "Fully adopt pathlib.PurePath for file paths"
     ],
     [
-      5,
+      6,
       "<a href='https://github.com/SciTools/iris/issues/4508'>#4508</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Provide a neat way to get date strings from arrays with date units."
