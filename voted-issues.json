@@ -2,6 +2,30 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6512'>#6512</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Documentation: Improve visibility of the \"community\" pages"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6511'>#6511</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Adopt Di\u00e1taxis"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6510'>#6510</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Add roadmap to documentation"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6509'>#6509</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Create an \"Iris's philosophy\" documentation page."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6505'>#6505</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
       "Loading files with coordinates that have non-string units fails"
