@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6542'>#6542</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "XML cube output fails for numpy < 2.3"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6539'>#6539</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
