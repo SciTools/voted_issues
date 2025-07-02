@@ -223,7 +223,7 @@
       "Merge dimension mashup"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5751'>#5751</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Expand \"which regridder\" documentation by addressing todos"
