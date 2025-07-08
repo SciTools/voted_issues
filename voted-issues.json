@@ -16,7 +16,7 @@
       2,
       "<a href='https://github.com/SciTools/iris/issues/6539'>#6539</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Compress ANY large payloads when saving, not just `Cube.data`"
+      "Extend`Cube.data` compression to coordinates"
     ],
     [
       1,
