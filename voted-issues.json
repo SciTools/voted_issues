@@ -7,12 +7,6 @@
       "Make Mesh documentation more obvious"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6539'>#6539</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Extend`Cube.data` compression to coordinates"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6512'>#6512</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
