@@ -2,6 +2,12 @@
   "data": [
     [
       2,
+      "<a href='https://github.com/SciTools/iris/issues/6565'>#6565</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Extend NetCDF zlib compression to UGRID"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6545'>#6545</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Make Mesh documentation more obvious"
