@@ -374,6 +374,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5083'>#5083</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Lazy SUM with 1D weights sometimes fails"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4941'>#4941</a>",
       "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
       "Check for scalar cubes before attempting to concatenate a CubeList"
