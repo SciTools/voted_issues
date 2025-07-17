@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/6565'>#6565</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Extend NetCDF zlib compression to UGRID"
@@ -80,12 +80,6 @@
     ],
     [
       2,
-      "<a href='https://github.com/SciTools/iris/issues/6419'>#6419</a>",
-      "<a href='https://github.com/schlunma'>@schlunma</a>",
-      "`iris.pandas.as_data_frame` cannot handle scalar cubes"
-    ],
-    [
-      2,
       "<a href='https://github.com/SciTools/iris/issues/6374'>#6374</a>",
       "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
       "Extend Iris loading to accept S3 URLs"
@@ -125,6 +119,12 @@
       "<a href='https://github.com/SciTools/iris/issues/6212'>#6212</a>",
       "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
       "Convert tests from unittest to pytest"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6126'>#6126</a>",
+      "<a href='https://github.com/hsteptoe'>@hsteptoe</a>",
+      "`_transform_coord_system` geometry is always assume to be `None`"
     ],
     [
       2,
