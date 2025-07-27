@@ -386,12 +386,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4941'>#4941</a>",
-      "<a href='https://github.com/valeriupredoi'>@valeriupredoi</a>",
-      "Check for scalar cubes before attempting to concatenate a CubeList"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Better implementation of Aggregators"
