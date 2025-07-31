@@ -1,19 +1,31 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6590'>#6590</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Add in-place cube operation switch"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6565'>#6565</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Extend NetCDF zlib compression to UGRID"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/6545'>#6545</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Make Mesh documentation more obvious"
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6535'>#6535</a>",
+      "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
+      "Extend Iris save to target S3 URL"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6512'>#6512</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
       "Documentation: Improve visibility of the \"community\" pages"
@@ -25,7 +37,7 @@
       "Adopt Di\u00e1taxis"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6510'>#6510</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
       "Add roadmap to documentation"
@@ -35,6 +47,12 @@
       "<a href='https://github.com/SciTools/iris/issues/6509'>#6509</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
       "Create an \"Iris's philosophy\" documentation page."
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6498'>#6498</a>",
+      "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
+      "Create  guide to guide future UX discussions"
     ],
     [
       2,
