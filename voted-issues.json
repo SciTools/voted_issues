@@ -223,12 +223,6 @@
       "Remove test file runnability"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Convenience function for making a regridding target `Cube` of specified shape"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5769'>#5769</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
