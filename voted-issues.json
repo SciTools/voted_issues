@@ -224,12 +224,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/5769'>#5769</a>",
-      "<a href='https://github.com/bblay'>@bblay</a>",
-      "Make concatenation signature public?"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/5768'>#5768</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
       "Merge dimension mashup"
