@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6617'>#6617</a>",
+      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
+      "Provide a slice tuple equivalent to a coordinate constraint"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6611'>#6611</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
@@ -421,7 +427,7 @@
       "Allow creation of area weights for Lambert Conformal Grids"
     ],
     [
-      5,
+      6,
       "<a href='https://github.com/SciTools/iris/issues/4799'>#4799</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Review the Iris user experience"
