@@ -1,6 +1,18 @@
 {
   "data": [
     [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/6611'>#6611</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Make the `slices` and `slices_over` example more clear and that merge usually follows these operations."
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/6591'>#6591</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Make lazy data the default"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6590'>#6590</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
