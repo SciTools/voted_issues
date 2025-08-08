@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6617'>#6617</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Provide a slice tuple equivalent to a coordinate constraint"
