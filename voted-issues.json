@@ -367,12 +367,6 @@
       "Iris 3.3.1 fails unhelpfully when it finds a bad cell_methods attribute"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5318'>#5318</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "Cube slice operation changes the data array type"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5314'>#5314</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
