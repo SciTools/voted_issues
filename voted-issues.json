@@ -491,60 +491,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Explain how to save data with a specific STASH code"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Preserve dtype for wrap_lons"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4101'>#4101</a>",
-      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
-      "Iris cannot read NetCDF4 strings stored in NetCDF variables"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3776'>#3776</a>",
-      "<a href='https://github.com/rcomer'>@rcomer</a>",
-      "Cube arithmetic points/bounds mismatch errors"
-    ],
-    [
-      5,
-      "<a href='https://github.com/SciTools/iris/issues/3726'>#3726</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Make it easy to extract coords as separate cubes, and the reverse \"injection\""
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3561'>#3561</a>",
-      "<a href='https://github.com/cpelley'>@cpelley</a>",
-      "BUG: iris pp treats standard calendar as a proleptic gregorian and ignores real proleptic gregorian calendars"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3559'>#3559</a>",
-      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
-      "Improve floating point representation in generation of regular grids that use a reference point and spacings"
-    ],
-    [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
-      "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
-      "Unify merge and concatenate"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3172'>#3172</a>",
-      "<a href='https://github.com/DPeterK'>@DPeterK</a>",
-      "Allow cubes/coords/etc to share data"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
-      "<a href='https://github.com/duncanwp'>@duncanwp</a>",
-      "Interpolation over derived coordinates"
     ]
   ]
 }
