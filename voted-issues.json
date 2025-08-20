@@ -295,7 +295,7 @@
       "Regridding fails for geostationary coordinate systems"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5466'>#5466</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Improve utility of warnings in Iris tests"
