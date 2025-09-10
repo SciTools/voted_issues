@@ -13,7 +13,7 @@
       "Make the `slices` and `slices_over` example more clear and that merge usually follows these operations."
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/6591'>#6591</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
       "Make lazy data the default"
