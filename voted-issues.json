@@ -541,12 +541,6 @@
       "Allow cubes/coords/etc to share data"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/2076'>#2076</a>",
-      "<a href='https://github.com/ehogan'>@ehogan</a>",
-      "Unable to merge cubes with cell measures"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
       "<a href='https://github.com/duncanwp'>@duncanwp</a>",
