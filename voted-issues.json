@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/6617'>#6617</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Provide a slice tuple equivalent to a coordinate constraint"
@@ -37,7 +37,7 @@
       "Make Mesh documentation more obvious"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6535'>#6535</a>",
       "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
       "Extend Iris save to target S3 URL"
