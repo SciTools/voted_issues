@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/6734'>#6734</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Maintain laziness with `iris.analysis.calculus.differentiate`"
