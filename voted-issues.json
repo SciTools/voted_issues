@@ -139,12 +139,6 @@
       "Preserve `crs_wkt` when loading and saving NetCDF files"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6228'>#6228</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Multiple NetCDF name constraints before `Cube` creation"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6222'>#6222</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
