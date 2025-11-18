@@ -175,12 +175,6 @@
       "Citation github <-> Zenodo mismatch"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5992'>#5992</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "`equalise_meshes()` routine?"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/5982'>#5982</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
