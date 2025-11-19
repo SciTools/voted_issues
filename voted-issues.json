@@ -494,12 +494,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/3561'>#3561</a>",
-      "<a href='https://github.com/cpelley'>@cpelley</a>",
-      "BUG: iris pp treats standard calendar as a proleptic gregorian and ignores real proleptic gregorian calendars"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/3559'>#3559</a>",
       "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
