@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/6809'>#6809</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Adopt `zizmor`"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6617'>#6617</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
