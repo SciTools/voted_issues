@@ -445,7 +445,7 @@
       "Provide a neat way to get date strings from arrays with date units."
     ],
     [
-      15,
+      16,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
