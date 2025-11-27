@@ -521,6 +521,12 @@
       "<a href='https://github.com/SciTools/iris/issues/1759'>#1759</a>",
       "<a href='https://github.com/duncanwp'>@duncanwp</a>",
       "Interpolation over derived coordinates"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/891'>#891</a>",
+      "<a href='https://github.com/shoyer'>@shoyer</a>",
+      "Proposal: move iris.cube.Cube to iris.Cube"
     ]
   ]
 }
