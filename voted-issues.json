@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      7,
+      8,
       "<a href='https://github.com/SciTools/iris/issues/6842'>#6842</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Ability to \"Interleave\" or \"insert\" cubes with concatenate or similar"
