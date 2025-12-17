@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6855'>#6855</a>",
+      "<a href='https://github.com/david-bentley'>@david-bentley</a>",
+      "Coordinate system agnostic region extraction"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6844'>#6844</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Regridding maintains a reference to target coordinates"
