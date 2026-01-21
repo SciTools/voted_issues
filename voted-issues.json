@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6902'>#6902</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Reinstate `geovista` in py314 lockfile when `pyvista` is py314 compatible."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6855'>#6855</a>",
       "<a href='https://github.com/david-bentley'>@david-bentley</a>",
       "Coordinate system agnostic region extraction"
