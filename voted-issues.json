@@ -373,12 +373,6 @@
       "`Cube.collapsed()` should produce an un-masked `Cube` if the original is un-masked"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5290'>#5290</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "Lazy `iris.experimental.stratify.relevel`"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5257'>#5257</a>",
       "<a href='https://github.com/larsbarring'>@larsbarring</a>",
