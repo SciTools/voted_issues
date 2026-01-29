@@ -19,7 +19,7 @@
       "Regridding maintains a reference to target coordinates"
     ],
     [
-      8,
+      9,
       "<a href='https://github.com/SciTools/iris/issues/6842'>#6842</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Ability to \"Interleave\" or \"insert\" cubes"
