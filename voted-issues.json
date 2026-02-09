@@ -367,7 +367,7 @@
       "Iris 3.3.1 fails unhelpfully when it finds a bad cell_methods attribute"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5314'>#5314</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "`Cube.collapsed()` should produce an un-masked `Cube` if the original is un-masked"
