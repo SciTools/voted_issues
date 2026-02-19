@@ -230,12 +230,6 @@
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/5809'>#5809</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Remove test file runnability"
-    ],
-    [
-      1,
       "<a href='https://github.com/SciTools/iris/issues/5768'>#5768</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
       "Merge dimension mashup"
