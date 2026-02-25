@@ -133,12 +133,6 @@
       "iris.Load inconsistantly merging cubes on load"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6374'>#6374</a>",
-      "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
-      "Extend Iris loading to accept S3 URLs"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6358'>#6358</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
