@@ -295,12 +295,6 @@
       "More tolerant AreaWeighted regridding behaviour for target cells stradling the source extents"
     ],
     [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/5457'>#5457</a>",
-      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
-      "Auxiliary coordinates created by HybridPressureFactory have huge chunks"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5455'>#5455</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
