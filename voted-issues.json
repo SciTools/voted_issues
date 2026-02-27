@@ -55,12 +55,6 @@
       "Add in-place cube operation switch"
     ],
     [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/6545'>#6545</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Make Mesh documentation more obvious"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6535'>#6535</a>",
       "<a href='https://github.com/JoshuaWiggs'>@JoshuaWiggs</a>",
@@ -68,27 +62,9 @@
     ],
     [
       2,
-      "<a href='https://github.com/SciTools/iris/issues/6512'>#6512</a>",
-      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
-      "Documentation: Improve visibility of the \"community\" pages"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6511'>#6511</a>",
-      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
-      "Adopt Di\u00e1taxis"
-    ],
-    [
-      2,
       "<a href='https://github.com/SciTools/iris/issues/6510'>#6510</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
       "Add roadmap to documentation"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/6509'>#6509</a>",
-      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
-      "Create an \"Iris's philosophy\" documentation page."
     ],
     [
       2,
