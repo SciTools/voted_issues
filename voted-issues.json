@@ -1,10 +1,22 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6967'>#6967</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Implicit Zarr support via `nczarr`"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6961'>#6961</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
       "[Spike] Zarr Investigation"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6915'>#6915</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Utility function to equalise coord bounds"
     ],
     [
       1,
@@ -29,6 +41,12 @@
       "<a href='https://github.com/SciTools/iris/issues/6842'>#6842</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Ability to \"Interleave\" or \"insert\" cubes"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6833'>#6833</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Adopt Pixi for reliable 'partitioning' of locked core and optional dependencies"
     ],
     [
       3,
