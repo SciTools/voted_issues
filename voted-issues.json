@@ -31,7 +31,7 @@
       "Coordinate system agnostic region extraction"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6844'>#6844</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Regridding maintains a reference to target coordinates"
