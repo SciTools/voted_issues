@@ -139,6 +139,12 @@
       "Simplify netcdf loading rules/actions"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6309'>#6309</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Fix iris handling of netcdf character array variables"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6263'>#6263</a>",
       "<a href='https://github.com/neilCrosswaite'>@neilCrosswaite</a>",
