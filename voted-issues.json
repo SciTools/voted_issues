@@ -337,12 +337,6 @@
       "Coordinate valid range and intersection issue"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5319'>#5319</a>",
-      "<a href='https://github.com/alistairsellar'>@alistairsellar</a>",
-      "Iris 3.3.1 fails unhelpfully when it finds a bad cell_methods attribute"
-    ],
-    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/5314'>#5314</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
