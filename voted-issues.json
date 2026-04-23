@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/7063'>#7063</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Merge slow for multiple Cubes with large `AncillaryVariable`s"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/7028'>#7028</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Iris meshes are not pickle safe"
