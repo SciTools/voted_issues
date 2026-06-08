@@ -415,12 +415,6 @@
       "Unify regridders"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4737'>#4737</a>",
-      "<a href='https://github.com/cgsandford'>@cgsandford</a>",
-      "Extract time cell points as python datetimes for plotting"
-    ],
-    [
       15,
       "<a href='https://github.com/SciTools/iris/issues/4643'>#4643</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
