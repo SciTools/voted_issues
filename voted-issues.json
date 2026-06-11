@@ -1,12 +1,6 @@
 {
   "data": [
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/7112'>#7112</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Extend coordinate `cell` and `cells` API"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/7106'>#7106</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
