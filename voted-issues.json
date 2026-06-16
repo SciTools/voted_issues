@@ -427,12 +427,6 @@
       "Cubes with string data won't save, or index"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4337'>#4337</a>",
-      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
-      "Applying logical OR to a constraint \"fails\" silently"
-    ],
-    [
       5,
       "<a href='https://github.com/SciTools/iris/issues/4197'>#4197</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
@@ -443,12 +437,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4178'>#4178</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Explain how to save data with a specific STASH code"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Preserve dtype for wrap_lons"
     ],
     [
       1,
