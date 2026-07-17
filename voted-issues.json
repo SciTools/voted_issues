@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/7176'>#7176</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Add MyPy checks for typing consistency."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/7106'>#7106</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Adopt a richer RTD search engine"
@@ -55,7 +61,7 @@
       "Ability to \"Interleave\" or \"insert\" cubes"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6833'>#6833</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Adopt Pixi for reliable 'partitioning' of locked core and optional dependencies"
