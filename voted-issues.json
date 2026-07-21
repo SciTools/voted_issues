@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/7205'>#7205</a>",
+      "<a href='https://github.com/rcomer'>@rcomer</a>",
+      "Consider moving `requirements/iris.yml` to `environment.yml`"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/7176'>#7176</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
       "Add MyPy checks for typing consistency."
@@ -391,7 +397,7 @@
       "Review the Iris user experience"
     ],
     [
-      6,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4798'>#4798</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Iris Core + Plugins"
