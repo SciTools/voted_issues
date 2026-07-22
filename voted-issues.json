@@ -1,10 +1,16 @@
 {
   "data": [
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/7205'>#7205</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
       "Consider moving `requirements/iris.yml` to `environment.yml`"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/7204'>#7204</a>",
+      "<a href='https://github.com/pt331'>@pt331</a>",
+      "Reorder pre-commit hooks so that `ruff-format` and `ruff-check` happens before `mypy`"
     ],
     [
       1,
@@ -383,12 +389,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4872'>#4872</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Ancillary variable aware cube arithmetic"
-    ],
-    [
-      5,
-      "<a href='https://github.com/SciTools/iris/issues/4812'>#4812</a>",
-      "<a href='https://github.com/nhsavage'>@nhsavage</a>",
-      "Allow creation of area weights for Lambert Conformal Grids"
     ],
     [
       6,
