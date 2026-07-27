@@ -37,12 +37,6 @@
       "Iris meshes are not pickle safe"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/6967'>#6967</a>",
-      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
-      "Implicit Zarr support via `nczarr`"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6961'>#6961</a>",
       "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
