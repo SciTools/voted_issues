@@ -355,12 +355,6 @@
       "Create generic regridder from user provided weights."
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Cannot save non-ASCII characters to NetCDF"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5083'>#5083</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
@@ -407,12 +401,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "`LENIENT` Cube Merge"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4412'>#4412</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Cubes with string data won't save, or index"
     ],
     [
       5,
