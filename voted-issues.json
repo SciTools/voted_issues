@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/7277'>#7277</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "[Agentic] Test dependency `nothing` is installed unpinned from a git default branch"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/7205'>#7205</a>",
       "<a href='https://github.com/rcomer'>@rcomer</a>",
