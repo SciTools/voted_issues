@@ -2,6 +2,24 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/7295'>#7295</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Remove pin on sphinx-llm"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/7291'>#7291</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "iris.save(..., compute=False) returns a tuple, not the documented Delayed"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/7288'>#7288</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Zarr I/O: how should the CF attribute model map onto JSON?"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/7277'>#7277</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "[Agentic] Test dependency `nothing` is installed unpinned from a git default branch"
