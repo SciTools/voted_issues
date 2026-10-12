@@ -145,12 +145,6 @@
       "Bad interaction between PP file and lazy aggregated_by"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6437'>#6437</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Consider switching from `array.compute()` to `dask.compute(array)`"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6436'>#6436</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
