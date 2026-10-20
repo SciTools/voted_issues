@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/7344'>#7344</a>",
+      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
+      "Precision change in regular PP-grid coordinates"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/7295'>#7295</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
