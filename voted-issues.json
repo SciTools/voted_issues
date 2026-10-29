@@ -19,12 +19,6 @@
       "iris.save(..., compute=False) returns a tuple, not the documented Delayed"
     ],
     [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/7288'>#7288</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Zarr I/O: how should the CF attribute model map onto JSON?"
-    ],
-    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/7277'>#7277</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
@@ -59,12 +53,6 @@
       "<a href='https://github.com/SciTools/iris/issues/7028'>#7028</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Iris meshes are not pickle safe"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6961'>#6961</a>",
-      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
-      "Zarr I/O"
     ],
     [
       1,
